@@ -350,7 +350,7 @@ st.markdown("""
     margin-top:40px;
 ">
     <p style="color:#aaa;font-size:0.9rem;">
-        © 2025 Burger Express. Todos os direitos reservados.
+        © 2025 Burger Express. Todos os direitos reservados. 
     </p>
 </div>
 """, unsafe_allow_html=True)
